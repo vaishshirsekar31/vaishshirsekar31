@@ -3,14 +3,14 @@
 # 👋 Hi, I'm Vaishnavi Shirsekar!
 
 💻 Software Engineer | 🎓 Master’s in Data Science @ RIT  
-🌟 Passionate about QA Automation, Networking, Embedded Systems, and Full Stack Development  
+🌟 Passionate about Quality Assurance Automation, Networking, Embedded Systems, and Full Stack Development  
 📍 Based in the USA | 🌐 Open to Co-ops and Full-time Opportunities  
 
 ---
 
 ## 🚀 About Me
 
-- 🛠️ Currently working as a **QA Intern at HARMAN International**
+- 🛠️ Currently working as a **Quality Assurance Intern at HARMAN International**
 - 💡 Skilled in **Python, C++, Linux, Pytest, TCL, Shell scripting, Docker, Kubernetes**
 - 🔬 Experienced with **network protocol testing** (IPv4/IPv6, BGP, MPLS), and system-level QA
 - 📊 Proficient in **automation frameworks**, DevOps pipelines, and real-time debugging
