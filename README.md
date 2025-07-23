@@ -31,6 +31,34 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🔧 Tech Stack
+
+<!-- Core Programming & Scripting -->
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-Bash-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+
+<!-- Operating Systems & Containers -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<!-- QA & Automation Tools -->
+![Pytest](https://img.shields.io/badge/Pytest-008000?style=for-the-badge&logo=pytest&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-FF3F00?style=for-the-badge&logo=tcl&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins/GitHub--Actions-orange?style=for-the-badge)
+
+<!-- Networking -->
+![Networking](https://img.shields.io/badge/Networking-BGP/MPLS/IPv6-blueviolet?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI%20Model-Layers%201--7-lightgrey?style=for-the-badge)
+
+<!-- Version Control -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
 
