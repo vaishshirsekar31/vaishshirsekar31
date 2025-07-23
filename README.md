@@ -44,11 +44,10 @@
 
 ---
 
-## 📈 GitHub Stats
+##  Article Links
+(https://github.com/vaishshirsekar31/vaishshirsekar31)
 
-![Vaishnavi's GitHub stats](https://github.com/vaishshirsekar31/vaishshirsekar31)
-
-![Vaishnavi's Medium Articles](https://medium.com/%40vaishshirsekar)
+(https://medium.com/%40vaishshirsekar)
 
 
 
