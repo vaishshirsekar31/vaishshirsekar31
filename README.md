@@ -57,7 +57,7 @@
 
 ## 📂 Featured Projects
 
-- 🔬 [**Network Protocol Testing Suite**](https://github.com/vaishnavishirsekar/network-protocol-tester)  
+- 🔬 [**Network Protocol Testing Suite**](https://github.com/vaishshirsekar31/Federated-Learning-with-Flower-PyTorch-MNIST-Classification)  
   Automated testing for BGP, MPLS, IPv4/IPv6 routing in Linux environments
 
 - 🛡️ [**Security Alert System using Python & AI**](https://github.com/vaishshirsekar31/Federated_Learning_Project_Demo)  
