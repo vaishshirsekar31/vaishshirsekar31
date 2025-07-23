@@ -34,9 +34,13 @@
 
 ## 📈 GitHub Stats
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavishirsekar&show_icons=true&theme=radical)
+![Vaishnavi's GitHub stats](https://github.com/vaishshirsekar31/vaishshirsekar31)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavishirsekar&layout=compact&theme=radical)
+![Vaishnavi's Medium Articles](https://medium.com/%40vaishshirsekar)
+
+
+
+
 
 ---
 
@@ -48,7 +52,7 @@
 - 🛡️ [**Security Alert System using Python & AI**](https://github.com/vaishnavishirsekar/security-alert-ai)  
   Real-time intrusion detection using OpenCV and machine learning
 
-- 📊 [**Power BI & Tableau Dashboards**](https://github.com/vaishnavishirsekar/powerbi-tableau-dashboard)  
+- 📊 [**Power BI & Tableau Dashboards**](https://public.tableau.com/app/profile/vaishnavi.shirsekar/vizzes)  
   Visual analytics for demand planning and supply chain forecasting
 
 ---
@@ -63,7 +67,7 @@
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavishirsekar)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-shirsekar-126504194/)
 - 📧 vaishshirsekar@gmail.com 
 
 
