@@ -30,19 +30,6 @@
 ![TCL](https://img.shields.io/badge/TCL-FF3F00?style=for-the-badge&logo=tcl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-## 🔧 Tech Stack
-
-<!-- Core Programming & Scripting -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-Bash-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
-
-<!-- Operating Systems & Containers -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 <!-- QA & Automation Tools -->
 ![Pytest](https://img.shields.io/badge/Pytest-008000?style=for-the-badge&logo=pytest&logoColor=white)
 ![TCL](https://img.shields.io/badge/TCL-FF3F00?style=for-the-badge&logo=tcl&logoColor=white)
