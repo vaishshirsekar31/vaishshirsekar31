@@ -55,9 +55,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OSI Model](https://img.shields.io/badge/OSI%20Model-Layers%201--7-lightgrey?style=for-the-badge)
 
-<!-- Version Control -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ## 📈 GitHub Stats
