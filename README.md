@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🛠️ Currently working as a **Software Quality Assurance Intern at Nokia**
+- 🛠️ Currently working as a **Software Engineer at Nokia**
 - 💡 Skilled in **Python, C++, Linux, Pytest, TCL, Shell scripting, Docker, Kubernetes**
 - 🔬 Experienced with **network protocol testing** (IPv4/IPv6, BGP, MPLS), and system-level QA
 - 📊 Proficient in **automation frameworks**, DevOps pipelines, and real-time debugging
